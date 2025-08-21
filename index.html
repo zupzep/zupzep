@@ -74,7 +74,11 @@
       }
     }
     document.addEventListener('DOMContentLoaded', function () {
-      document.body.classList.add('close');
+      if (window.innerWidth < 769) {
+        document.body.classList.add('close');
+      }else{
+        document.body.classList.add('close');
+      }
     });
   </script>
 
