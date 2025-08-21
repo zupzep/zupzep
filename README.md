@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Zupzep
 
-Fullstack Developer from Jakarta 🇮🇩  
-Passionate about clean code, scalable systems, and developer branding.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00DC82&center=false&vCenter=true&width=435&lines=Fullstack+Developer" alt="Typing SVG" />
 
 ---
 
@@ -24,7 +23,7 @@ Passionate about clean code, scalable systems, and developer branding.
 
 ## 🌐 Portfolio & Contact
 
-- 🖥️ Website: [zupzep.com](https://zupzep.com)  
+- 🌍 Website: [zupzep.com](https://zupzep.com)  
 - 📧 Email: hello@zupzep.com  
 
 ---
