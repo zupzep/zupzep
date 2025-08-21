@@ -73,20 +73,6 @@
         icon.textContent = '🌙';
       }
     }
-
-    document.addEventListener('DOMContentLoaded', function () {
-    const headers = document.querySelectorAll('.sidebar-nav > ul > li > a');
-    headers.forEach(header => {
-      header.addEventListener('click', function () {
-        setTimeout(() => {
-          const subSidebar = document.querySelector('.app-sub-sidebar');
-          if (subSidebar) {
-            subSidebar.style.display = 'block';
-          }
-        }, 300);
-      });
-    });
-  });
   </script>
 
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
