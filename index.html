@@ -38,17 +38,18 @@
 
 </head>
 <body>
-  <div id="app">Loading Zupzep Docs...</div>
+  <div id="app">Loading Zupzep...</div>
 
   <div class="dark-toggle" onclick="toggleDarkMode()">🌗 Toggle Mode</div>
 
   <script>
     window.$docsify = {
+      el: '#app',
       name: 'zupzep',
       repo: 'zupzep/zupzep',
       loadSidebar: false,
       subMaxLevel: 2,
-      search: 'auto',
+      search: false,
       themeColor: '#00DC82'
     };
 
