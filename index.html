@@ -3,9 +3,12 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>zupzep</title>
+  <title>Zupzep Docs</title>
 
+  <!-- Theme: Vue (default light mode) -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css" id="theme-link" />
+
+  <!-- Font: Fira Code for dev vibes -->
   <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet" />
 
   <style>
@@ -36,22 +39,47 @@
       z-index: 999;
       user-select: none;
     }
+
+    .sidebar-toggle {
+      position: fixed;
+      top: 10px;
+      left: 10px;
+      background: transparent;
+      font-size: 24px;
+      cursor: pointer;
+      z-index: 999;
+      user-select: none;
+    }
+
+    .app-sub-sidebar {
+      display: none;
+    }
+
+    .github-corner {
+      display: none !important;
+    }
   </style>
 </head>
 <body>
-  <div id="app">Loading...</div>
+  <div id="app">Loading Zupzep Docs...</div>
 
+  <!-- 🌗 Dark Mode Toggle Icon -->
   <div class="dark-toggle" onclick="toggleDarkMode()">
     <span id="mode-icon">🌙</span>
+  </div>
+
+  <!-- 📚 Sidebar Toggle Icon -->
+  <div class="sidebar-toggle" onclick="toggleSidebar()">
+    <span id="sidebar-icon">📂</span>
   </div>
 
   <script>
     window.$docsify = {
       name: 'Zupzep Docs',
-      loadSidebar: false,
+      loadSidebar: true,
       subMaxLevel: 2,
-      search: 'auto',
-      themeColor: '#00DC82'
+      themeColor: '#00DC82',
+      search: 'auto'
     };
 
     function toggleDarkMode() {
@@ -69,9 +97,32 @@
         icon.textContent = '🌙';
       }
     }
+
+    function toggleSidebar() {
+      const subSidebar = document.querySelector('.app-sub-sidebar');
+      const icon = document.getElementById('sidebar-icon');
+      if (subSidebar) {
+        if (subSidebar.style.display === 'none') {
+          subSidebar.style.display = 'block';
+          icon.textContent = '📁';
+        } else {
+          subSidebar.style.display = 'none';
+          icon.textContent = '📂';
+        }
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', function () {
+      const subSidebar = document.querySelector('.app-sub-sidebar');
+      if (subSidebar) {
+        subSidebar.style.display = 'none';
+      }
+    });
   </script>
 
+  <!-- Docsify Core -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <!-- Search Plugin -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
