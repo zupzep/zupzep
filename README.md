@@ -1,6 +1,6 @@
 # hi there 👋, i'm zupzep
 
-<img src="https://readme-typing-svg.demolab.com?font=fira+code&weight=600&size=28&pause=1000&color=47a248&center=false&vcenter=true&width=435&lines=fullstack+developer" alt="typing svg" />
+<img src="https://readme-typing-svg.demolab.com?font=fira+code&weight=600&size=28&pause=1000&color=e0234e&center=false&vcenter=true&width=435&lines=fullstack+developer" alt="typing svg" />
 
 ---
 
