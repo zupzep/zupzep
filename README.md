@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Zupzep
+# Hi there 👋, I'm zupzep
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00DC82&center=false&vCenter=true&width=435&lines=Fullstack+Developer" alt="Typing SVG" />
 
