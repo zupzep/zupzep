@@ -38,5 +38,5 @@
 
 ## 🌐 portfolio & contact
 
-- 🌍 website: [zupzep.com](https://zupzep.com)  
-- 📧 email: hello@zupzep.com
+🌍 website: [zupzep.com](https://zupzep.com)  
+📧 email: hello@zupzep.com
