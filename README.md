@@ -1,42 +1,42 @@
-# Hi there 👋, I'm zupzep
+# hi there 👋, i'm zupzep
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00DC82&center=false&vCenter=true&width=435&lines=Fullstack+Developer" alt="Typing SVG" />
-
----
-
-## 🧰 Tech Stack
-
-**Backend:**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-
-**Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)
-
-**Database:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=fira+code&weight=500&size=24&pause=1000&color=00dc82&center=false&vcenter=true&width=435&lines=fullstack+developer" alt="typing svg" />
 
 ---
 
-## 📊 GitHub Stats
+## 🧰 tech stack
 
-![Zupzep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zupzep&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zupzep&layout=compact&theme=tokyonight)
+**backend:**  
+![php](https://img.shields.io/badge/php-777bb4?logo=php&logoColor=white)
+![laravel](https://img.shields.io/badge/laravel-ff2d20?logo=laravel&logoColor=white)
+![codeigniter](https://img.shields.io/badge/codeigniter-ef4223?logo=codeigniter&logoColor=white)
+![node.js](https://img.shields.io/badge/node.js-339933?logo=node.js&logoColor=white)
+![express](https://img.shields.io/badge/express-000000?logo=express&logoColor=white)
+![nestjs](https://img.shields.io/badge/nestjs-e0234e?logo=nestjs&logoColor=white)
+
+**frontend:**  
+![react](https://img.shields.io/badge/react-61dafb?logo=react&logoColor=black)
+![next.js](https://img.shields.io/badge/next.js-000000?logo=next.js&logoColor=white)
+![vue.js](https://img.shields.io/badge/vue.js-4fc08d?logo=vue.js&logoColor=white)
+![nuxt.js](https://img.shields.io/badge/nuxt.js-00dc82?logo=nuxt.js&logoColor=white)
+![react native](https://img.shields.io/badge/react%20native-61dafb?logo=react&logoColor=black)
+
+**database:**  
+![mysql](https://img.shields.io/badge/mysql-4479a1?logo=mysql&logoColor=white)
+![postgresql](https://img.shields.io/badge/postgresql-4169e1?logo=postgresql&logoColor=white)
+![mongodb](https://img.shields.io/badge/mongodb-47a248?logo=mongodb&logoColor=white)
+![sql server](https://img.shields.io/badge/sql%20server-cc2927?logo=microsoftsqlserver&logoColor=white)
 
 ---
 
-## 🌐 Portfolio & Contact
+## 📊 github stats
 
-- 🌍 Website: [zupzep.com](https://zupzep.com)  
-- 📧 Email: hello@zupzep.com  
+![stats](https://github-readme-stats.vercel.app/api?username=zupzep&show_icons=true&theme=tokyonight)  
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zupzep&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 portfolio & contact
+
+- 🌍 website: [zupzep.com](https://zupzep.com)  
+- 📧 email: hello@zupzep.com
